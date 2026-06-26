@@ -10,16 +10,19 @@
 
 <br>
 
-<a href="mailto:a.bhambu@iitg.ac.in">
+<a href="mailto:aryanbhambu.ab@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://github.com/statsdl">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/aryan-bhambu-b098931a1?">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="YOUR_GOOGLE_SCHOLAR_URL">
+<a href="https://scholar.google.com/citations?user=u3UybosAAAAJ&hl=en">
   <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
 </a>
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://statsdl.github.io">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
 </a>
 
@@ -91,7 +94,5 @@
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=statsdl&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
-
 
 
