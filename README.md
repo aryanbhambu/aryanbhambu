@@ -2,13 +2,14 @@
 
 <img src="https://github.com/statsdl.png?size=21" width="160" height="160" style="border-radius: 50%;" alt="Aryan Bhambu"/>
 
-# Namaste 🙏, I'm Aryan Bhambu
 
 <!-- PROFILE IMAGE START -->
 <p align="center">
-  <img src="assets/profile-github-site-v2.png" width="230" alt="Aryan Bhambu profile photo" />
+  <img src="assets/profile-github-site-v3.png" width="180" alt="Aryan Bhambu profile photo" />
 </p>
 <!-- PROFILE IMAGE END -->
+
+# Namaste 🙏, I'm Aryan Bhambu
 
 
 ### Ph.D. Scholar · Department of Mathematics · IIT Guwahati
@@ -31,9 +32,6 @@
 </a>
 
 <br><br>
-
-<img src="https://komarev.com/ghpvc/?username=statsdl&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-
 </div>
 
 ---
