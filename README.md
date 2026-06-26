@@ -49,7 +49,7 @@
 
 ## 📚 Research Interests
 
-**Time Series Analysis • Time-dependent Forecasting • Deep Learning • Deep Reinforcement Learning • Randomized Neural Networks • Statistical Learning • Quantitative Finance • Volatility Forecasting • Risk Assessment • Option Pricing • Hedging • Survival Analysis • Medical Analytics • Decentralized Finance • Portfolio Optimization • Uncertainty Estimation • LLMs**
+**Time Series Analysis • Deep Learning • Deep Reinforcement Learning • Randomized Neural Networks • Statistical Learning • Quantitative Finance • Volatility Forecasting • Risk Assessment • Option Pricing • Hedging • Survival Analysis • Medical Analytics • Decentralized Finance • Portfolio Optimization • Uncertainty Estimation • LLMs**
 
 ---
 
