@@ -10,7 +10,7 @@
 
 ### Postdoctoral Researcher · IITB-Citadel Securities Quantitative Research Lab · IIT Bombay
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Time+Series+Analysis+%E2%80%A2+Deep+Learning+%E2%80%A2+Randomized+Neural+Networks;Quantitative+Finance+%E2%80%A2+Volatility+Forecasting+%E2%80%A2+Risk+Assessment;Deep+Reinforcement+Learning+%E2%80%A2+LLMs+%E2%80%A2+Statistical+Learning;Open+to+Research+Collaborations+%26+Opportunities" alt="Typing SVG" width="90%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Postdoctoral+Researcher+%E2%80%A2+IIT+Bombay;Quantitative+Research+%E2%80%A2+Time+Series+%E2%80%A2+Risk+Assessment;Randomized+Neural+Networks+%E2%80%A2+Deep+Learning+%E2%80%A2+Uncertainty;Reinforcement+Learning+%E2%80%A2+LLMs+%E2%80%A2+Statistical+Learning" alt="Typing SVG" width="90%" />
 
 <br>
 
