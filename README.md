@@ -8,7 +8,7 @@
 
 # Namaste 🙏, I'm Aryan Bhambu
 
-### Ph.D. Scholar · Department of Mathematics · IIT Guwahati
+### Postdoctoral Researcher · IITB-Citadel Securities Quantitative Research Lab · IIT Bombay
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Time+Series+Analysis+%E2%80%A2+Deep+Learning+%E2%80%A2+Randomized+Neural+Networks;Quantitative+Finance+%E2%80%A2+Volatility+Forecasting+%E2%80%A2+Risk+Assessment;Deep+Reinforcement+Learning+%E2%80%A2+LLMs+%E2%80%A2+Statistical+Learning;Open+to+Research+Collaborations+%26+Opportunities" alt="Typing SVG" width="90%" />
 
@@ -34,13 +34,13 @@
 
 ## 👋 About Me
 
-- 🎓 Ph.D. Scholar in Department of Mathematics at **IIT Guwahati**
-- 🔬 Working on **time series analysis, financial forecasting, volatility modeling, and risk assessment**
-- 🧠 Interested in **randomized neural networks, deep learning, deep reinforcement learning, and statistical learning**
-- 📈 Research focus: quantitative finance, volatility forecasting, option pricing and hedging, survival analysis, DeFi risk modelling, medical time-to-event analysis, and uncertainty estimation
-- 🤖 Exploring **LLMs, AGI-oriented evaluation, and algorithmic validation**
-- 🧪 Building reproducible research packages for forecasting, randomized architectures, financial risk modelling, DeFi applications, and medical analytics
-- 🤝 Open to research collaborations, internships, and applied ML/AI research opportunities
+- I joined the **IITB-Citadel Securities Quantitative Research Lab** at **IIT Bombay** as a postdoctoral researcher in August 2026.
+- I completed my **Ph.D. in Statistics** in the Department of Mathematics at **IIT Guwahati** in June 2026.
+- I develop learning methods for noisy, time-dependent data and sequential decision-making problems.
+- My work combines **randomized neural networks, deep ensembles, time-series forecasting, uncertainty-aware learning, and reinforcement learning**.
+- I apply these methods to quantitative finance, volatility and risk forecasting, algorithmic trading, portfolio optimization, energy forecasting, and decentralized-finance risk analysis.
+- I also explore agentic systems, large language models, factor mining, and deep reinforcement learning for financial decision-making.
+- Open to research collaborations, scholarly exchange, and applied ML/AI opportunities.
 
 > *“Building statistically grounded learning frameworks for time-series analysis, financial decision-making, and uncertainty-aware forecasting.”*
 
@@ -48,7 +48,65 @@
 
 ## 📚 Research Interests
 
-**Time Series Analysis • Deep Learning • Deep Reinforcement Learning • Randomized Neural Networks • Statistical Learning • Quantitative Finance • Volatility Forecasting • Risk Assessment • Option Pricing • Hedging • Survival Analysis • Medical Analytics • Decentralized Finance • Portfolio Optimization • Uncertainty Estimation • LLMs**
+**Quantitative Finance • Volatility & Risk Modelling • Algorithmic Trading • Portfolio Optimization • Option Pricing & Hedging • Time-Series Forecasting • Randomized Neural Networks • Deep Ensembles • Deep Reinforcement Learning • Survival Analysis • Decentralized Finance • Uncertainty Estimation • Factor Mining • LLMs & Agentic Systems**
+
+### Current Research Focus
+
+- Volatility, risk, and market forecasting under nonlinear and changing market regimes
+- Randomized and deep RVFL architectures with fitted output layers and multiple outputs
+- Heteroscedastic models and deep ensembles for forecast uncertainty
+- Investor-specific portfolio optimization and multi-stock trading
+- State-space, recurrent, and transformer-inspired architectures for sequential data
+- Survival analysis and time-to-event modelling for decentralized-finance risk
+
+---
+
+## 💼 Experience
+
+### Postdoctoral Researcher
+
+**IITB-Citadel Securities Quantitative Research Lab, IIT Bombay** · *Aug 2026 – Present*
+
+- Conducting research in quantitative finance, financial machine learning, and data-driven financial-market modelling.
+- Working under [Prof. Sudeep R. Bapat](https://sites.google.com/view/srbapat/home).
+
+### Freelance Research Analyst
+
+**Turing** · *Jun 2024 – Aug 2026*
+
+- Supported next-generation AI research through technical evaluation and algorithmic validation of generative and agentic methods.
+
+### Research Intern
+
+**MEDSOLU (OPC) Pvt. Ltd.** · *Summer 2022*
+
+- Applied bootstrap and deep-ensemble time-series methods to financial forecasting, risk-adjusted returns, and uncertainty estimation.
+
+---
+
+## 🎓 Education
+
+### Ph.D. in Statistics
+
+**Indian Institute of Technology Guwahati**, Department of Mathematics · *Jan 2022 – Jun 2026*
+
+- CGPA: **8.48 / 10**
+- Thesis: **Learning Frameworks for Time Series Analysis and Financial Decision-Making using Backpropagation and Randomized Neural Networks**
+- Supervisors: [Prof. Selvaraju Natarajan](https://scholar.google.com/citations?hl=en&user=_Ps47yUAAAAJ) and [Prof. Ponnuthurai Nagaratnam Suganthan](https://scholar.google.com/citations?hl=en&user=yZNzBU0AAAAJ)
+
+### M.Sc. in Applied Mathematics
+
+**Indian Institute of Technology Mandi** · *Aug 2019 – Jul 2021*
+
+- CGPA: **9.03 / 10**
+- Thesis: *Applications of Deep Learning in Supervised Data Analysis*
+
+### B.Sc. Pass Course
+
+**Maharaja's College, University of Rajasthan** · *Jul 2016 – Jun 2019*
+
+- Percentage: **70.89%**
+- Supported by the [DST-Inspire Scholarship](https://online-inspire.gov.in/) from 2016–2021.
 
 ---
 
@@ -70,12 +128,37 @@
 
 <br>
 
+<img src="https://img.shields.io/badge/Hugging%20Face-Transformers-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/Joblib-Parallel%20Computing-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Dask-Scalable%20Computing-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/HPC-High%20Performance%20Computing-green?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Matlab-Numerical%20Computing-red?style=for-the-badge" />
 
 </div>
+
+---
+
+## 📝 Selected Publications
+
+- **A heteroscedasticity-based extended long short term memory network for volatility forecasting and risk assessment**
+  *Applied Soft Computing*, 2026 — [Publisher](https://doi.org/10.1016/j.asoc.2026.115627)
+
+- **Randomized deep Hopfield network with multiple output layers for volatility time series forecasting**
+  *Neural Networks*, 195, March 2026 — [Publisher](https://doi.org/10.1016/j.neunet.2025.108207) · [Code](https://github.com/aryanbhambu/volatility-edrhn) · [PyPI](https://pypi.org/project/volatility-edrhn/)
+
+- **Deep random vector functional link transformer network with multiple output layers for significant wave height forecasting**
+  *Applied Soft Computing*, 186, January 2026 — [Publisher](https://doi.org/10.1016/j.asoc.2025.114136) · [Code](https://github.com/aryanbhambu/edRFT) · [PyPI](https://pypi.org/project/edrft/)
+
+- **Heteroscedastic ensemble deep random vector functional link neural network with multiple output layers for high-frequency volatility forecasting and risk assessment**
+  *Neurocomputing*, 638, July 2025 — [Publisher](https://doi.org/10.1016/j.neucom.2024.130078) · [Code](https://github.com/aryanbhambu/heteroscedastic-edrvfl) · [PyPI](https://pypi.org/project/heteroscedastic-edrvfl/)
+
+- **Deep Reinforcement Learning for Investor-Specific Portfolio Optimization: A Volatility-Guided Asset Selection Approach**
+  *Advances in Financial AI Workshop, ICLR 2025* — [arXiv](https://arxiv.org/abs/2505.03760)
+
+- **Dynamic Reinforced Ensemble using Bayesian Optimization for Stock Trading**
+  *Proceedings of ICAIF 2024* — [Publisher](https://dl.acm.org/doi/10.1145/3677052.3698595)
+
+Full publication list: [Research profile](https://aryanbhambu.github.io/#publications) · [Google Scholar](https://scholar.google.com/citations?user=u3UybosAAAAJ&hl=en)
 
 ---
 
